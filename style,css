@@ -1,3 +1,4 @@
 body{
     background-color:#CCC;
+    box-sizing: border-box;
 }
